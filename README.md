@@ -1,2 +1,2 @@
 # slider
-Following the guide presented by &lt;a href="https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw">Helping Develop&lt;/a> to create a jQuery slider.
+Following the guide presented by <a href="https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw">Helping Develop</a> to create a jQuery slider.
